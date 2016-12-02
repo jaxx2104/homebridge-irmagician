@@ -1,0 +1,27 @@
+{
+  "name": "homebridge-irmagician",
+  "version": "0.0.1",
+  "description": "irMagician plugin for homebridge: https://github.com/nfarina/homebridge",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
+  "author": "jaxx2104",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jaxx2104/homebridge-irmagician.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaxx2104/homebridge-irmagician/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "irmagician": "git@github.com:jaxx2104/irmagician.git"
+  }
+}
