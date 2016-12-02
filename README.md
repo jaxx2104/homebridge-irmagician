@@ -1,4 +1,5 @@
 # homebridge-irmagcian
+[![npm version](https://badge.fury.io/js/homebridge-irmagician.svg)](https://badge.fury.io/js/homebridge-irmagician)
 
 irMagician on HomeBridge Platform.
 
